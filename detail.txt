@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 lname:Aman
 fname:Dixit
 age:24
@@ -10,3 +11,6 @@ lastName:Dixit
 =======
 firstName:Aman
 >>>>>>> 6a8865632cd465354228d7256d9a2052342a89a4
+=======
+this is detail.txt
+>>>>>>> 4139ef6756dc33065029fb06c8cada8d21836772
