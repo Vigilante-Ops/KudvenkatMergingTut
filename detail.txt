@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 lname:Aman
 fname:Dixit
 age:24
+=======
+
+lastName:Dixit
+>>>>>>> dev
