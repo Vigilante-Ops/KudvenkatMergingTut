@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 lname:Aman
 fname:Dixit
 age:24
@@ -6,3 +7,6 @@ age:24
 
 lastName:Dixit
 >>>>>>> dev
+=======
+firstName:Aman
+>>>>>>> 6a8865632cd465354228d7256d9a2052342a89a4
