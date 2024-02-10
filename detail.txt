@@ -1,3 +1,1 @@
-lname:Aman
-fname:Dixit
-age:24
+firstName:Aman
